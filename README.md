@@ -19,8 +19,9 @@ At Quinn, our goal is to help you build a healthy and easy-to-follow skincare ro
 ### Product Demo
 
 Home Page | Recommendation Feature 
---- | ---
-(![Untitled4](https://user-images.githubusercontent.com/40009989/118312436-56073c00-b4bf-11eb-99e5-6b0d0c2fff37.gif) | (![Untitled5](https://user-images.githubusercontent.com/40009989/118312473-67e8df00-b4bf-11eb-89f3-ebed2b4d9166.gif)
+---  |  --- 
+<img src= "https://user-images.githubusercontent.com/40009989/118344949-53c4d200-b4ff-11eb-9d3c-5d92695604cd.mov" height = "620" width = "320"> | <img src= "https://user-images.githubusercontent.com/40009989/118345234-19f4cb00-b501-11eb-8fd2-f295b65c411b.mov" height = "620" width = "320">
+
 
 ### App Evaluation
 - **Category:** Skincare, Wellness,and Social
