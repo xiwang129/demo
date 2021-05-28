@@ -20,7 +20,7 @@ At Quinn, our goal is to help you build a healthy and easy-to-follow skincare ro
 
 Home Page | Recommendation Feature 
 ---  |  --- 
-<img src= "https://user-images.githubusercontent.com/40009989/118344949-53c4d200-b4ff-11eb-9d3c-5d92695604cd.mov" height = "620" width = "320"> | <img src= "https://user-images.githubusercontent.com/40009989/118345234-19f4cb00-b501-11eb-8fd2-f295b65c411b.mov" height = "620" width = "320">
+<img src= "https://user-images.githubusercontent.com/40009989/118344949-53c4d200-b4ff-11eb-9d3c-5d92695604cd.mov" height = "620" width = "300"> | <img src= "https://user-images.githubusercontent.com/40009989/118345234-19f4cb00-b501-11eb-8fd2-f295b65c411b.mov" height = "620" width = "300">
 
 
 ### App Evaluation
