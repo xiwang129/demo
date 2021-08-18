@@ -12,7 +12,7 @@ The year of 2020 has been an interesting year for all of us AND to our skin. It 
 
 Disrupted workout routine, balancing work and school life to prevent burnouts, and all those irregular breakouts popped up overnight is probably the last thing we want before all these zoom meetings. Like the one we are in right now. Don’t we all want to take good care of ourselves and our skin to make a good impression on others.
 
-Introducing Quinn, Quinn is a mobile app to recommend clean skincare products for men. Users take a five-question survey regarding their skin concerns, skin type and budget. A content-based machine learning recommender model will then use given answers to recommend a product through a curated product selection, such as some essentials for men: facial cleanser, moisturizer,and suncare.
+Introducing Quinn Skin, Quinn is a mobile app to recommend clean skincare products for men. Users take a five-question survey regarding their skin concerns, skin type and budget. A content-based machine learning recommender model will then use given answers to recommend a product through a curated product selection, such as some essentials for men: facial cleanser, moisturizer,and suncare.
 
 At Quinn, our goal is to help you build a healthy and easy-to-follow skincare routine. No more confusion and frustration. Want a glowy skin for your next zoom meeting? Come and join Quinn!
 
